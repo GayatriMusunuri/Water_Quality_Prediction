@@ -51,15 +51,34 @@ This project uses **Machine Learning** to predict water quality parameters effic
 ```bash
 git clone https://github.com/GayatriMusunuri/Water_Quality_Prediction.git
 cd Water_Quality_Prediction '''
+```
 
 2. **Install dependencies:**
+
+```bash
 pip install -r requirements.txt
+```
 
 3. **Run the application:**
+```bash
 streamlit run app.py
+```
 
 4. Open in Browser:
-Local: http://localhost:8501
-Network: As displayed in terminal
+- Local: http://localhost:8501
+- Network: As displayed in terminal
+
+## 📊 Results
+- Predicts six pollutant levels accurately for each input
+- Fast and reliable predictions
+- Good performance achieved using Random Forest Regressor
+- Provides visual insights via Bar & Pie Charts
+
+## 🌐 Live Demo
+Check out the live app here:
 
 
+## 👩‍💻 Author
+
+
+✨ Empowering smarter and cleaner water monitoring with AI! 🌊💧
