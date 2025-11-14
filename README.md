@@ -65,7 +65,7 @@ streamlit run app.py
 ```
 
 4. Open in Browser:
-- Local: http://localhost:8501
+- Local: http://localhost:8501/
 - Network: As displayed in terminal
 
 ## 📊 Results
@@ -76,9 +76,9 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 Check out the live app here:
-
+http://localhost:8501/
 
 ## 👩‍💻 Author
-
+https://github.com/GayatriMusunuri
 
 ✨ Empowering smarter and cleaner water monitoring with AI! 🌊💧
